@@ -58,7 +58,8 @@ You can start watching all channels in just 3 simple steps:
 ---
 ### ⚠️ Performance Note
 *Buffering issues depend on the source stream quality. If a channel buffers, try switching the stream quality in your player settings or use a stable network connection.*
----
+
+"For smooth streaming, please increase the Buffer Size in your IPTV Player settings to 'Large'." 
 
 ---
 

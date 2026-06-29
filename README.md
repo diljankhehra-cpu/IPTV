@@ -18,7 +18,7 @@ An advanced automated system that aggregates live Indian television channels in 
 ### 🔗 Quick Access Link
 **Copy this URL and paste it into your favorite IPTV player:**
 
-> `https://diljankhehra-cpu.github.io/IPTV./in.m3u`
+> `https://diljankhehra-cpu.github.io/IPTV/in.m3u`
 
 ---
 
